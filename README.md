@@ -2,7 +2,7 @@
 
 Nightora installers, checksums, release notes and third-party notices. The main application and website source is maintained in a separate private repository.
 
-Nightora is an independent source. The first Windows preview is being prepared; macOS and Linux packages are not published yet. Replacement account, cloud-sync, theme-store and provider-broker resources are still being set up. This is not a claim that all inherited features are operational.
+Nightora is an independent source. The first Windows preview is being prepared; macOS and Linux packages are not published yet along side Meta Quest VR Standalone App. Replacement account, cloud-sync, theme-store and provider-broker resources are still being set up. This is not a claim that all inherited features are operational.
 
 Downloads will appear under [Releases](https://github.com/RealChroma/Nightora-Releases/releases). Draft releases are visible only to repository collaborators until published.
 
