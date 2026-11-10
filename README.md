@@ -7,16 +7,20 @@
 
 ### Your media, your way.
 
-Movies, shows, anime, music and reading — together in a native desktop app.
+Movies, shows, anime, music and reading — together on Windows and Meta Quest.
 
-[![Windows preview](https://img.shields.io/badge/Windows-friends_preview-e9b765?style=flat-square&labelColor=17191c)](https://nightora.vercel.app/faq#downloads)
+[![Windows](https://img.shields.io/badge/Windows-0.9.146-e9b765?style=flat-square&labelColor=17191c)](https://github.com/RealChroma/Nightora-Releases/releases/latest)
+[![Meta Quest](https://img.shields.io/badge/Meta_Quest-now_available-0467df?style=flat-square&labelColor=17191c)](https://www.meta.com/experiences/nightora/1458723257319749/)
 [![Tauri 2](https://img.shields.io/badge/Tauri-2-24c8db?style=flat-square&labelColor=17191c)](https://tauri.app/)
 [![React](https://img.shields.io/badge/React-19-61dafb?style=flat-square&labelColor=17191c)](https://react.dev/)
 [![Rust](https://img.shields.io/badge/Built_with-Rust-dea584?style=flat-square&labelColor=17191c)](https://www.rust-lang.org/)
 
-[Website](https://nightora.vercel.app/) · [Features](#a-place-for-everything) · [Screenshots](#make-it-yours) · [Downloads](#get-nightora) · [Report an issue](https://github.com/RealChroma/Nightora-Releases/issues)
+[Website](https://nightora.vercel.app/) · [Meta Quest](https://www.meta.com/experiences/nightora/1458723257319749/) · [Features](#a-place-for-everything) · [Screenshots](#make-it-yours) · [Downloads](#get-nightora) · [Report an issue](https://github.com/RealChroma/Nightora-Releases/issues)
 
 </div>
+
+> [!NOTE]
+> **Nightora is now on Meta Quest.** Get it for Quest 2, Quest Pro and Quest 3 on the [Meta Horizon Store](https://www.meta.com/experiences/nightora/1458723257319749/). Already use Nightora on Windows? Open Settings, TV devices and send your accounts and keys to the headset instead of typing them.
 
 <br>
 
@@ -98,9 +102,14 @@ Choose a theme, adjust the layout, tune your colors and fonts, and shape the pla
 
 ## Get Nightora
 
-Nightora is currently in a small Windows friends preview. Public installers will appear on the [releases page](https://github.com/RealChroma/Nightora-Releases/releases) when available.
+| Platform | Get it |
+| --- | --- |
+| Windows x64 | [Nightora 0.9.146 installer](https://github.com/RealChroma/Nightora-Releases/releases/latest) |
+| Meta Quest 2, Quest Pro, Quest 3 | [Meta Horizon Store](https://www.meta.com/experiences/nightora/1458723257319749/) |
 
-The setup wizard includes Nightora's white and gold artwork. Updates use Nightora's own update signatures. macOS, Linux and Meta Quest builds are planned.
+On Quest, Nightora runs as a 2D panel with native playback. To set up a headset from your PC, open Settings, TV devices in the Windows app and send your Nightora account, Stremio account and source keys over your local network.
+
+Windows updates use Nightora's own update signatures, and the setup wizard includes Nightora's white and gold artwork. macOS and Linux builds are planned.
 
 Visit [nightora.vercel.app](https://nightora.vercel.app/) for current availability and setup information.
 
